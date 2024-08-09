@@ -1,5 +1,5 @@
 # MoofyNG
-MoofyNG is a v2rayNG optimized for iran
+MoofyNG is a v2rayNG optimized for iran.
 
 <img src="https://github.com/TTAAEELL/MoofyNG/blob/master/MoofyCover.jpg?raw=true" width="240" ><br>
 
